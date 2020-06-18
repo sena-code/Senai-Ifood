@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SENAI ifood/1.0.0": {
+        "runtime": {
+          "SENAI ifood.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SENAI ifood/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
