@@ -11,3 +11,16 @@ C:\Users\Vinicius\Desktop\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.csproj
 C:\Users\Vinicius\Desktop\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.dll
 C:\Users\Vinicius\Desktop\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.pdb
 C:\Users\Vinicius\Desktop\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.exe
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.deps.json
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.runtimeconfig.dev.json
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.dll
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\bin\Debug\netcoreapp3.1\SENAI ifood.pdb
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.csprojAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.dll
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.pdb
+C:\Users\Vinicius\Desktop\Senai\SENAI ifood\obj\Debug\netcoreapp3.1\SENAI ifood.genruntimeconfig.cache

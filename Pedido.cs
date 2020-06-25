@@ -1,32 +1,27 @@
+using System;
+
 namespace SENAI_ifood
 {
     public class Pedido
     {
-        public string Itens {get; set;}
-        public string Cliente {get; set;}
-        public string Restaurante {get; set;}
-        public string PagarMeto {get; set;}
-        public string pagar {get; set;}
-        public bool PedidoPago(string pagar)
-        {
+        public string[] Itens { get; set; }
+        public Cliente Cliente { get; set; }
+        public Restaurante Restaurante { get; set; }
+        public string FormaPGTO { get; set; }
+        public bool PedidoPago { get; set; }
+        public DateTime DataEntrega { get; set; }
 
-            if(pagar == "Pagamento aceito"){
-                return true;
-            }
-             return false;
-        }
         public string EntregarPedido(){
-
-            return "O pedido está a caminho";
-        }
-        public string PedidoEntrega(string entrega){
             
-            if(entrega == "Sim"){
-                return "Obrigado pela compra";
-            }else if (entrega == "Não"){
-                return "Entre em contato com o restaurante";
-            } return "Entrega não Realizada";
+            DataEntrega = DateTime.Now;
 
+            string retorno = "Pedido entregue! \n";
+            retorno += Restaurante.MostrarDados();
+            retorno += Cliente.MostrarDados();
+            retorno += DataEntrega;
+
+            return retorno;
         }
+        
     }
 }
